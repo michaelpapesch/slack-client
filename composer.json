@@ -10,7 +10,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/michaelpapesch/slack-client"
+            "url": "https://github.com/michaelpapesch/phpws"
         }
     ],
     "require": {
