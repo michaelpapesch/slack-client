@@ -7,9 +7,15 @@
         "name": "Stephen Coakley",
         "email": "me@stephencoakley.com"
     }],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/michaelpapesch/slack-client"
+        }
+    ],
     "require": {
         "php": ">=5.5",
-        "michaelpapesch/phpws": "^2.0",
+        "mpociot/phpws": "dev-master",
         "evenement/evenement": "~3.0",
         "guzzlehttp/guzzle": "~6.0",
         "react/event-loop": "^1.0 || ^0.5 || ^0.4",
